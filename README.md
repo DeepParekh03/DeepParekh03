@@ -136,11 +136,7 @@ If you like what i do, maybe consider buying me a coffee <br> 🥺👉👈
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
 
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="50%">
 
-<img align="center" src="https://github.com/jhenilparihar/jhenilparihar/blob/output/github-contribution-grid-snake.svg">
-</p>
 
 
 <h2 align="center">🤝 Support</h2>
