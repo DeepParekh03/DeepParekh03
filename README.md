@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/deep-parekh-514a68212/">
+  <a href="https://www.linkedin.com/in/deep-parekh-b48bba22a/">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="Deep | LinkedIN">
   </a>&nbsp;&nbsp;
 <!--   <a href="https://twitter.com/JhenilParihar">
